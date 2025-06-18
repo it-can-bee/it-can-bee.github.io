@@ -7,11 +7,9 @@
 <h2 id="欢迎来到小刘的摄影之旅"><a href="#欢迎来到小刘的摄影之旅" class="headerlink" title="欢迎来到小刘的摄影之旅"></a>欢迎来到小刘的摄影之旅</h2><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><h3 id="领证"><a href="#领证" class="headerlink" title="领证"></a>领证</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 <!-- <a href="/images/gallery/lingzheng/lingzheng-001.jpg" data-fancybox="images" data-caption="甜蜜领证时刻"><img src="/images/gallery/lingzheng/lingzheng-001.jpg" /></a>
 <a href="/images/gallery/lingzheng/lingzheng-002.jpg" data-fancybox="images" data-caption="幸福的开始"><img src="/images/gallery/lingzheng/lingzheng-002.jpg" /></a> -->
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<p><img src="/images/gallery/lingzheng/lingzheng-001.jpg" alt="1111"><br>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="婚礼"><a href="#婚礼" class="headerlink" title="婚礼"></a>婚礼</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<p><img src="/images/gallery/lingzheng/lingzheng-002.jpg" alt="1111"><br>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
 <h3 id="订婚"><a href="#订婚" class="headerlink" title="订婚"></a>订婚</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
