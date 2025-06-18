@@ -13,11 +13,6 @@
 <h3 id="订婚"><a href="#订婚" class="headerlink" title="订婚"></a>订婚</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<!-- ### 写真
-
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a> –&gt;</p>
 ]]></content>
       <categories>
         <category>婚拍</category>
@@ -25,6 +20,18 @@
       <tags>
         <tag>婚拍222</tag>
         <tag>旅拍1111</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>毕业旅拍</title>
+    <url>/2025/06/18/%E6%AF%95%E4%B8%9A%E6%97%85%E6%8B%8D/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>毕业</category>
+      </categories>
+      <tags>
+        <tag>旅拍1111</tag>
+        <tag>广大</tag>
       </tags>
   </entry>
 </search>
