@@ -2,9 +2,9 @@
 <search>
   <entry>
     <title>小奇的摄影(可接潮汕 | 珠三角)</title>
-    <url>/2025/06/06/hello-world/</url>
-    <content><![CDATA[<p>欢迎来到小奇的摄影 <a href="https://hexo.io/">Mr.Liu</a>! 聪明的朋友找我，主营业务包括领证 | 婚礼 | 写真 | 珠三角 | 潮汕 | …99年男摄📷富士，感兴趣可小红书联系我，小红书号:<a href="https://github.com/it-can-bee">pcg66h</a></p>
-<h2 id="欢迎来到小刘的摄影之旅"><a href="#欢迎来到小刘的摄影之旅" class="headerlink" title="欢迎来到小刘的摄影之旅"></a>欢迎来到小刘的摄影之旅</h2><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><h3 id="领证"><a href="#领证" class="headerlink" title="领证"></a>领证</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <url>/2025/06/01/hello-world/</url>
+    <content><![CDATA[<h2 id="欢迎来到小刘的摄影之旅"><a href="#欢迎来到小刘的摄影之旅" class="headerlink" title="欢迎来到小刘的摄影之旅"></a>欢迎来到小刘的摄影之旅</h2><span id="more"></span>
+<h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><h3 id="领证"><a href="#领证" class="headerlink" title="领证"></a>领证</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 <!-- <a href="/images/gallery/lingzheng/lingzheng-001.jpg" data-fancybox="images" data-caption="甜蜜领证时刻"><img src="/images/gallery/lingzheng/lingzheng-001.jpg" /></a>
 <a href="/images/gallery/lingzheng/lingzheng-002.jpg" data-fancybox="images" data-caption="幸福的开始"><img src="/images/gallery/lingzheng/lingzheng-002.jpg" /></a> -->
 <p><img src="/images/gallery/lingzheng/lingzheng-001.jpg" alt="1111"><br>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -19,5 +19,12 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a> –&gt;</p>
 ]]></content>
+      <categories>
+        <category>婚拍</category>
+      </categories>
+      <tags>
+        <tag>婚拍222</tag>
+        <tag>旅拍1111</tag>
+      </tags>
   </entry>
 </search>
